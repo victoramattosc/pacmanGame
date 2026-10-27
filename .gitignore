@@ -17,3 +17,7 @@
 *.apk
 *.aab
 *.unitypackage
+.plastic/
+ignore.conf
+.vscode/
+*.slnx

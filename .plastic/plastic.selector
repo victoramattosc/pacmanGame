@@ -1,4 +1,0 @@
-repository "pacmanGame/pacmanGame@4674158750381@cloud"
-  path "/"
-    br "/main"
-    co "/main"
