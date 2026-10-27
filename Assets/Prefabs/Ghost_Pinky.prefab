@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2478890912329058234
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 597358444078392540, guid: 0d4e0fa6106792845989f9645249b0ea, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 597358444078392540, guid: 0d4e0fa6106792845989f9645249b0ea, type: 3}
+      propertyPath: m_Color.g
+      value: 0.71000004
+      objectReference: {fileID: 0}
+    - target: {fileID: 597358444078392540, guid: 0d4e0fa6106792845989f9645249b0ea, type: 3}
+      propertyPath: m_Color.r
+      value: 0.9903333
+      objectReference: {fileID: 0}
+    - target: {fileID: 750235992612140089, guid: 0d4e0fa6106792845989f9645249b0ea, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.20432
+      objectReference: {fileID: 0}
+    - target: {fileID: 750235992612140089, guid: 0d4e0fa6106792845989f9645249b0ea, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.14788
+      objectReference: {fileID: 0}
+    - target: {fileID: 750235992612140089, guid: 0d4e0fa6106792845989f9645249b0ea, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2
+      objectReference: {fileID: 0}
+    - target: {fileID: 750235992612140089, guid: 0d4e0fa6106792845989f9645249b0ea, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 750235992612140089, guid: 0d4e0fa6106792845989f9645249b0ea, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 750235992612140089, guid: 0d4e0fa6106792845989f9645249b0ea, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 750235992612140089, guid: 0d4e0fa6106792845989f9645249b0ea, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 750235992612140089, guid: 0d4e0fa6106792845989f9645249b0ea, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 750235992612140089, guid: 0d4e0fa6106792845989f9645249b0ea, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 750235992612140089, guid: 0d4e0fa6106792845989f9645249b0ea, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1743000905580448434, guid: 0d4e0fa6106792845989f9645249b0ea, type: 3}
+      propertyPath: initialBehaviour
+      value: 
+      objectReference: {fileID: 1358862831100088575}
+    - target: {fileID: 4389057529051010845, guid: 0d4e0fa6106792845989f9645249b0ea, type: 3}
+      propertyPath: initialDirection.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4490597070701394587, guid: 0d4e0fa6106792845989f9645249b0ea, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: b97167c35748db84fb4d32f4f242922a, type: 3}
+    - target: {fileID: 5692695105085335735, guid: 0d4e0fa6106792845989f9645249b0ea, type: 3}
+      propertyPath: m_Name
+      value: Ghost_Pinky
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0d4e0fa6106792845989f9645249b0ea, type: 3}
+--- !u!114 &1358862831100088575 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3512082775515764549, guid: 0d4e0fa6106792845989f9645249b0ea, type: 3}
+  m_PrefabInstance: {fileID: 2478890912329058234}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f60fbce49dd8a104fb4197fe366160cc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GhostHome
